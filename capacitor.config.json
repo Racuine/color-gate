@@ -1,0 +1,6 @@
+{
+  "appId": "com.colorgate.neonrush",
+  "appName": "Color Gate",
+  "webDir": "www",
+  "android": { "backgroundColor": "#050a1b", "allowMixedContent": false }
+}
